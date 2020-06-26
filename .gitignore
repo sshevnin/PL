@@ -1,0 +1,14 @@
+/[Oo]bj
+/Library
+/Temp
+
+# Visual Studio #
+/*.csproj
+/*.suo
+/*.sln*
+/.vs/PL/v15/.suo
+/.vs/PL/v15/Server/sqlite3/db.lock
+/.vs/PL/v15/Server/sqlite3/storage.ide
+/.vs/PL/v15/Server/sqlite3/storage.ide-shm
+/.vs/PL/v15/Server/sqlite3/storage.ide-wal
+DesignTimeBuild
